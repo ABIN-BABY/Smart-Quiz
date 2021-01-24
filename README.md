@@ -10,8 +10,6 @@ THINGS TO KNOW BEFORE STARTING THE GAME: 1)ONLY TWO CATEGORIES ARE WORKING: *MUS
 
 Demo_Project_gif_Video_Link:https://1drv.ms/u/s!ApkFgrvkve66gfdLklwn33lS-4MAhQ?e=Hq5yaX
 
-Github link:https://github.com/abin-baby/SmartQuiz.git Properties Working:
-
 Sqlite is connected and working
 Using materialDialog for showing pop-ups
 Load images from url-using picasso
