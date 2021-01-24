@@ -8,7 +8,7 @@ Team:
 
 THINGS TO KNOW BEFORE STARTING THE GAME: 1)ONLY TWO CATEGORIES ARE WORKING: *MUSIC-Where test data is loaded with currect and wrong answer *GEOGRAPHY-Where the actual questions and answers are shown, some questions even have images
 
-Demo_Project_gif_Video_Link:https://1drv.ms/u/s!Akc84Hn8cfPtdSrjdRDOyVgpl00?e=ZsZ6ie
+Demo_Project_gif_Video_Link:https://1drv.ms/u/s!Akc84Hn8cfPtdSrjdRDOyVgpl00
 
 Sqlite is connected and working
 Using materialDialog for showing pop-ups
